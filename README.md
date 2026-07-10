@@ -30,7 +30,7 @@ For proprietary integration, commercial deployment, or use cases requiring a non
 
 ---
 © 2026 autoMoTIVe-X Lab, Inria, and University of Padua.
-
+---
 
 # zk-ScalHard: Project Implementation Artifacts
 
@@ -88,5 +88,10 @@ Navigate to the Figures folder and execute the scripts to generate the paper's r
 ```bash
 python3 final_bandwidth_graph.py           # Reproduces Figure 8
 python3 final_verification_latency_100.py  # Reproduces Figure 9
+
+---
+© 2026 autoMoTIVe-X Lab, Inria, and University of Padua.
+---
+
 python3 temporal_isolation.py              # Reproduces Figure 10
 ```
