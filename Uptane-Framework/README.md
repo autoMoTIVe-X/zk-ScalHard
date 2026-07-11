@@ -1,3 +1,20 @@
+/*
+ * zk-ScalHard: Scalable and Hardware-Rooted Authentication for Zonal SDVs
+ * 
+ * Copyright (C) 2026 Shrikant Tangade, autoMoTIVe-X Lab (Belagavi, India), Inria (France), and University of Padua (Italy).
+ * 
+ * This file is part of zk-ScalHard.
+ * zk-ScalHard is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, version 3.
+ * 
+ * This program is distributed in the hope that it will be useful, but 
+ * WITHOUT ANY WARRANTY; without even the implied warranty of 
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the 
+ * GNU General Public License for more details: <https://www.gnu.org/licenses/>.
+ */
+
+
 # Uptane Upstream Framework Simulator
 
 > A real-world Python simulation of the **Uptane Upstream OTA Security Framework** for automotive ECUs — implementing all 4 algorithms from the IEEE conference paper with **101 ECUs**, **Ed25519 digital signatures**, and a live **Streamlit dashboard**.
