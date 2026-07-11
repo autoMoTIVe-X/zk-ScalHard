@@ -43,6 +43,9 @@ For proprietary integration, commercial deployment, or use cases requiring a non
 
 ---
 © 2026 autoMoTIVe-X Lab, Inria, and University of Padua.
+
+---
+© 2026 autoMoTIVe-X Lab, Inria, and University of Padua.
 ---
 
 # zk-ScalHard: Project Implementation Artifacts
