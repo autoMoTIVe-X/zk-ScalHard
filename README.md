@@ -1,11 +1,20 @@
 # zk-ScalHard: Scalable & Hardware-Rooted Authentication for Zonal SDVs
 
-Official implementation of the **zk-ScalHard** protocol, achieving $O(1)$ constant-time verification complexity for Software-Defined Vehicle (SDV) OTA updates.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![arXiv](https://img.shields.io/badge/arXiv-2607.07371-B31B1B.svg)](https://arxiv.org/abs/2607.07371)
+
+**Official Technical Report and Implementation of the zk-ScalHard Protocol.**
+
+zk-ScalHard is a hardware-anchored, privacy-preserving authentication protocol designed for the Software-Defined Vehicle (SDV) era. It achieves asymptotic $O(1)$ verification complexity, reducing OTA update authentication bandwidth by **99.2%**.
+
+---
 
 ## 📄 Scientific Publication
 This work is detailed in the following technical report:
 **"zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs"**
 Available on ArXiv: [arXiv:2607.07371](https://arxiv.org/abs/2607.07371)
+
+
 
 ## 🤝 Collaboration & Affiliations
 This research is a global collaboration between:
