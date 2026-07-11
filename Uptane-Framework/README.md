@@ -9,29 +9,41 @@ zk-ScalHard is a hardware-anchored, privacy-preserving authentication protocol d
 
 ---
 
-## 🤝 The Global Triangle Collaboration
-This research is a result of a multi-national collaboration between:
-* **SERENDIPITY Team**, Inria Lille – Nord Europe, France
-* **autoMoTIVe-X Lab**, Belagavi, India
-* **University of Padua**, Italy
+## 📄 Scientific Publication
+This work is detailed in the following technical report:
+**"zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs"**
+Available on ArXiv: [arXiv:2607.07371](https://arxiv.org/abs/2607.07371)
 
 ## 📄 How to Cite
 If you use this code or refer to the zk-ScalHard protocol in your research, please cite our technical report:
 
 > **Shrikant Tangade, Bansi Pambhar, Valeria Loscrì, and Mauro Conti**, *"zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs,"* arXiv preprint arXiv:2607.07371, 2026.
 
-## ✍️ Authors & Maintainers
-* **Dr. Shrikant Tangade** (Lead & Corresponding Author) - [contact@motivex.in](mailto:contact@motivex.in)
-* **Bansi Pambhar** (Research Assistant) - autoMoTIVe-X Lab
-* **Dr. Valeria Loscrì** (Head of SERENDIPITY Team) - Inria
-* **Prof. Mauro Conti** (Head of SPRITZ Group) - University of Padua
+## 🤝 Collaboration & Affiliations
+This research is a global collaboration between:
+* **SERENDIPITY Project-Team**, Inria Lille – Nord Europe, France
+* **autoMoTIVe-X Lab**, Belagavi, India
+* **University of Padua**, Italy
 
-## ⚖️ License
+## ✍️ Authors
+* **Shrikant Tangade** (Corresponding Author) - Inria / autoMoTIVe-X / AMBIT - contact@motivex.in
+* **Bansi Pambhar** - autoMoTIVe-X Lab
+* **Valeria Loscrì** - SERENDIPITY Team, Inria
+* **Mauro Conti** - University of Padua / Örebro University
+
+
+## ⚖️ Licensing & Copyleft
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. 
-For commercial licensing or proprietary integration inquiries, please contact the **autoMoTIVe-X Lab** at `contact@motivex.in`.
+
+### Non-Commercial / Open Science
+You are free to use, modify, and distribute this software under the terms of the GPL-3.0. Any derivative works must also be open-sourced under the same license.
+
+### Commercial Licensing
+For proprietary integration, commercial deployment, or use cases requiring a non-copyleft license, please contact the **autoMoTIVe-X Lab** (contact@motivex.in) or **Inria Lille** for licensing terms.
 
 ---
 © 2026 autoMoTIVe-X Lab, Inria, and University of Padua.
+
 
 
 # Uptane Upstream Framework Simulator
