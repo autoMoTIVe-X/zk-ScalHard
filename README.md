@@ -26,7 +26,7 @@ This research is a global collaboration between:
 * **University of Padua**, Italy
 
 ## ✍️ Authors
-* **Shrikant Tangade** (Corresponding Author) - Inria / autoMoTIVe-X / AMBIT
+* **Shrikant Tangade** (Corresponding Author) - Inria / autoMoTIVe-X / AMBIT - contact@motivex.in
 * **Bansi Pambhar** - autoMoTIVe-X Lab
 * **Valeria Loscrì** - SERENDIPITY Team, Inria
 * **Mauro Conti** - University of Padua / Örebro University
