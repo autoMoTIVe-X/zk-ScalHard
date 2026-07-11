@@ -31,6 +31,7 @@ This research is a global collaboration between:
 * **Valeria Loscrì** - SERENDIPITY Team, Inria
 * **Mauro Conti** - University of Padua / Örebro University
 
+
 ## ⚖️ Licensing & Copyleft
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. 
 
