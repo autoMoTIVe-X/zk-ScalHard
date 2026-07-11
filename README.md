@@ -14,7 +14,10 @@ This work is detailed in the following technical report:
 **"zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs"**
 Available on ArXiv: [arXiv:2607.07371](https://arxiv.org/abs/2607.07371)
 
+## 📄 How to Cite
+If you use this code or refer to the zk-ScalHard protocol in your research, please cite our technical report:
 
+> **Shrikant Tangade, Bansi Pambhar, Valeria Loscrì, and Mauro Conti**, *"zk-ScalHard: Scalable and Hardware-Rooted Privacy-Preserving Authentication for Secure OTA Updates in Zonal SDVs,"* arXiv preprint arXiv:2607.07371, 2026.
 
 ## 🤝 Collaboration & Affiliations
 This research is a global collaboration between:
